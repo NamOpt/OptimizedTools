@@ -1,4 +1,5 @@
 # All-in-one-Tools-by-Nam
+
 ℹ️ All-in-one Tools Windows Utility
 Welcome to AIO Tools, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation of Windows to achieve maximum privacy and security benefits. Depending on your Windows version, this tool can also help you apply specific system tweaks.
 
@@ -13,7 +14,7 @@ Welcome to AIO Tools, an advanced configuration utility designed to enhance your
 - WinSlap (1.3) by svenmauch: https://github.com/svenmauch/WinSlap
 - XToolBox by xemulat: https://github.com/xemulat/XToolbox
 - Harden Debloat by simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
-
+- Microsoft Activation Scripts by WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
 ✅ How to use:
 - Extract this program by 7-zip SFX.
 - When is done, open this folder you extract, run the "startup.exe" file.
