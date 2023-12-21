@@ -3,7 +3,7 @@
 Welcome to AIO Tools, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation of Windows to achieve maximum privacy and security benefits. Depending on your Windows version, this tool can also help you apply specific system tweaks.
 
 ❗ Disclaimer:
-WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk.
+- WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk.
 
 🏗️ Tools with programs:
 - Optimizer by hellzerg: https://github.com/hellzerg/optimizer
@@ -14,22 +14,22 @@ WARNING: I do NOT take responsibility for what may happen to your system! Run sc
 - XToolBox by xemulat: https://github.com/xemulat/XToolbox
 - Harden Debloat by simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 
-⬇️ Downloads
-Find the latest release on the Releases page.
+✅ How to use:
+- Extract this program by 7-zip SFX.
+- When is done, open this folder you extract, run the "startup.exe" file.
+⬇️ Downloads:
+- Find the latest release on the Releases page.
 
-❓ Report bug
-In the issues.
+❓ Report bug:
+- In the issues.
 
-📰 Changelog
-Find the latest changes on the Releases page.
+📰 Changelog:
+- Find the latest changes on the Releases page.
 
-🛡️ Security Policy
-Learn about our security measures in the Security Policy.
+💻 Compatibility:
+- Requires .NET Framework 6.0 with 1 tools
+- Compatible with Windows 10, 11
 
-💻 Compatibility
-Requires .NET Framework 6.0 with 1 tools
-Compatible with Windows 10, 11
-
-📊 Details
-Latest version: 0.1.1.0 (Released: Dec, 21 , 2023)
-State: Development
+📊 Details:
+- Latest version: 0.1.1.0 (Released: Dec, 21 , 2023)
+- State: Development
