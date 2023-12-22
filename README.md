@@ -6,7 +6,7 @@
 ❗ Disclaimer:
 - WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk.
 
-🏗️ Tools with programs:
+💾 Tools with programs:
 - Optimizer by hellzerg: https://github.com/hellzerg/optimizer
 - winutil by Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
 - Bloatnosy by builtbybel: https://github.com/builtbybel/BloatyNosy
@@ -42,3 +42,9 @@
 📊 Details:
 - Latest version: 0.1.1.0 (Released: Dec, 21 , 2023)
 - State: Development
+
+📶 Size:
+- Setup file: 20MB
+- Extracted file: 39.8MB
+
+Make with enthusiasm and love❤️
