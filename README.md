@@ -1,5 +1,8 @@
 # OptimizedTools 
- 
+
+⚒️ Development:
+For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
+
 ℹ️ OptimizedTools Windows Utility
 
 - Welcome to OptimizedTools, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation of Windows to achieve maximum privacy and security benefits. Depending on your Windows version, this tool can also help you apply specific system tweaks.
