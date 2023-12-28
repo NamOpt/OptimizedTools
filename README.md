@@ -1,7 +1,7 @@
 # OptimizedTools 
 
 ⚒️ Development:
-For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
+- For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
 
 ℹ️ OptimizedTools Windows Utility
 
