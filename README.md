@@ -68,13 +68,13 @@ Make with enthusiasm and love❤️
 - CẢNH BÁO: Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
 
 💾 Công cụ kèm theo chương trình:
-- Trình tối ưu hóa của hellzerg: https://github.com/hellzerg/optimizer
+- Optimizer của hellzerg: https://github.com/hellzerg/optimizer
 - winutil của Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
-- Bloatnosy của buildbybel: https://github.com/buildbybel/BloatyNosy
+- Bloatnosy của builtbybel: https://github.com/builtbybel/BloatyNosy
 - Windows10Debloater của Sycnex: https://github.com/Sycnex/Windows10Debloater
 - WinSlap (1.3) của svenmauch: https://github.com/svenmauch/WinSlap
 - XToolBox của xemulat: https://github.com/xemulat/XToolbox
-- Harden Debloat bằng simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
+- Harden Debloat của simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 - Tập lệnh kích hoạt Microsoft của WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ✅ Cách sử dụng:
