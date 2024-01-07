@@ -125,5 +125,6 @@ For **English 🇺🇸** and **Việt Nam 🇻🇳**:
 - Facebook: https://www.facebook.com/namnee6
 - Tiktok: https://www.tiktok.com/@_.techphone_/
 - Youtube: https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA
+
 For **Việt Nam 🇻🇳** only:
-Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
+- Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
