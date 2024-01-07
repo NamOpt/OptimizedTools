@@ -113,8 +113,12 @@ Make with enthusiasm and love❤️
 - Phiên bản mới nhất: 0.2.2.0 (Phát hành: 29/12/2023)
 - Trạng thái: Tạm thời dừng phát triển
 
+
 📶 Kích thước:
 - Tệp 7zip: 20,6MB
 - File sau khi giải nén: 39,8MB
 
 Làm bằng nhiệt huyết và tình yêu❤️
+
+# Liên hệ khi có lỗi / Contact me
+![face](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/0923da78-2975-417a-8c36-44bb638192a6](https://www.facebook.com/namnee6)https://www.facebook.com/namnee6)
