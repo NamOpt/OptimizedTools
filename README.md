@@ -3,10 +3,11 @@
 
 # Status
 ![status](https://img.shields.io/badge/status-okay-blue)
-![ver](https://img.shields.io/badge/version-0.2.2.0_lastet-black)
+![ver]([https://img.shields.io/badge/version-0.2.2.0_lastet-black)
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
 ![state](https://img.shields.io/badge/state-temporarily_stopped_development-yellow)
 ![tools](https://img.shields.io/badge/tools_version-outdated-red)
+[![CodeFactor](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools/badge)](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools)
 
 # 🇺🇸 for English:
 
