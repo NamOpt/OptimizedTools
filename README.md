@@ -2,7 +2,7 @@
 ![Screenshot from 2024-01-07 13-43-50](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
 ![status](https://img.shields.io/badge/status-okay-blue)
-
+![ver](https://img.shields.io/badge/version-0.2.2.0_lastet-black)
 # 🇺🇸 for English:
 
 ⚒️ Development:
