@@ -1,6 +1,6 @@
 # OptimizedTools 
 
-🇺🇸 for English:
+# 🇺🇸 for English:
 
 ⚒️ Development:
 - For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
@@ -55,7 +55,7 @@
 
 Make with enthusiasm and love❤️
 
-🇻🇳 cho Việt Nam:
+# 🇻🇳 cho Việt Nam:
 
 ⚒️ Về phát triển và xây dựng phần mềm:
 - Về nguồn: Các bạn không nên tải từ nguồn mình upload, chỉ cho vui thôi, Các bạn nên tải từ trang Release, mỗi lần cập nhật mình sẽ cập nhật nguồn và upload lên trang Release.
