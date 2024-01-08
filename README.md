@@ -128,10 +128,8 @@
 For **English 🇺🇸** and **Việt Nam 🇻🇳**:
 
 [![ver](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)](https://www.facebook.com/namnee6)
-
-- Facebook: https://www.facebook.com/namnee6
-- Tiktok: https://www.tiktok.com/@_.techphone_/
-- Youtube: https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA
+[![ver](https://img.shields.io/badge/tiktok%3A_%40.techphone-gray?style=flat&logo=tiktok)](https://www.tiktok.com/@_.techphone_/)
+[![ver](https://img.shields.io/badge/ytb%3A_NamCzE-gray?style=flat&logo=youtube)](https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA)
 
 For **Việt Nam 🇻🇳** only:
 - Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
