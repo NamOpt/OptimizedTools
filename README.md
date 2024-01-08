@@ -70,7 +70,7 @@
 
 # 🇻🇳 cho Việt Nam:
 
-⚒️ **Về phát triển và xây dựng phần mềm:**
+⚒️ **Về phát triển và xây dựng phần mềm:**(https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)
 - Về nguồn: Các bạn không nên tải từ source mình upload, chỉ cho vui thôi, Các bạn nên tải từ trang Release, mỗi lần cập nhật mình sẽ cập nhật source và upload lên trang Release.
 
 ❔ **Về thông tin của OptimizedTools**
@@ -127,8 +127,8 @@
 # Liên hệ khi có lỗi / Contact me
 For **English 🇺🇸** and **Việt Nam 🇻🇳**:
 
-[!fb](https://img.shields.io/badge/facebook-gray?style=flat&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fnamnee6)
-
+[!fb](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)]
+[![ver](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)]((https://www.facebook.com/namnee6))
 - Facebook: https://www.facebook.com/namnee6
 - Tiktok: https://www.tiktok.com/@_.techphone_/
 - Youtube: https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA
