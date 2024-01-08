@@ -127,8 +127,8 @@
 # Liên hệ khi có lỗi / Contact me
 For **English 🇺🇸** and **Việt Nam 🇻🇳**:
 
-[!fb](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)]
-[![ver](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)]((https://www.facebook.com/namnee6))
+[![ver](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)](https://www.facebook.com/namnee6)
+
 - Facebook: https://www.facebook.com/namnee6
 - Tiktok: https://www.tiktok.com/@_.techphone_/
 - Youtube: https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA
