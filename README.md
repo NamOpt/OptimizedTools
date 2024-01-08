@@ -8,6 +8,10 @@
 ![state](https://img.shields.io/badge/state-temporarily_stopped_development-yellow)
 ![tools](https://img.shields.io/badge/tools_version-outdated-red)
 [![CodeFactor](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools/badge)](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools)
+![website](https://img.shields.io/badge/website_status-okay-blue)
+![tk](https://img.shields.io/badge/website_status-okay-blue)
+![download](https://img.shields.io/badge/downloads%3A-9%2Fmonth-green?style=flat&logo=downloads)
+![discord](https://img.shields.io/badge/not%20supported%20(coming%20soon)-black?style=flat&logo=discord)
 
 # 🇺🇸 for English:
 
