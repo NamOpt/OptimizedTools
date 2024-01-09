@@ -2,17 +2,17 @@
 mode 95, 30
 :welcome
 cls
-title All-in-one Tools by Nam - development state
+title OptimizedTools by Nam - development state
 echo:
-echo:                           [31mAll[0m - [33min[0m - [32mone[0m [36mTool[0m [beta]
+echo:                           [31mOp[0m[33mti[0m[32mmi[0m[36mzedTools[0m [beta]
 echo:       ______________________________________________________________
 echo:
 echo:                 Optimize method:
 echo:
 echo:             [1] [32mOptimizer[0m               ^|  Windows 10 / 11   
-echo:             [2] BloatyNosty             ^|  Windows 11       
+echo:             [2] BloatyNosy              ^|  Windows 11       
 echo:             [3] [32mW10Debloater[0m            ^|  Windows 10 / 11      
-echo:             [4] XTBox                   ^|  Windows 10 / 11  
+echo:             [4] XToolBox                ^|  Windows 10 / 11  
 echo:             [5] WinSlap                 ^|  Windows 10 2009 only 
 echo:             [6] Harden Debloat          ^|  Windows 10 / 11      ^| .NET 6.0 requied
 echo:             [7] [32mChris Tus Tool[0m          ^|  Windows 10 / 11   
@@ -112,7 +112,7 @@ goto welcome
 :8
 cd..
 cd Tools
-test.cmd
+active.cmd
 
 :beta1
 echo Coming soon.
