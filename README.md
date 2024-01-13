@@ -30,7 +30,7 @@
 - **winutil** by Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
 - **Bloatnosy** by builtbybel: https://github.com/builtbybel/BloatyNosy
 - **Windows10Debloater** by Sycnex: https://github.com/Sycnex/Windows10Debloater
-- **WinSlap (1.6)** bysvenmauch: https://github.com/svenmauch/WinSlap
+- **HoneCtrl** by luke-beep: https://github.com/luke-beep/HoneCtrl
 - **XToolBox** by xemulat: https://github.com/xemulat/XToolbox
 - **Harden Debloat** by simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 - **Microsoft Activation Scripts** by WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
@@ -85,7 +85,7 @@
 - **winutil** của Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
 - **Bloatnosy** của builtbybel: https://github.com/builtbybel/BloatyNosy
 - **Windows10Debloater** của Sycnex: https://github.com/Sycnex/Windows10Debloater
-- **WinSlap (1.6)** của svenmauch: https://github.com/svenmauch/WinSlap
+- **HoneCtrl** của luke-beep: https://github.com/luke-beep/HoneCtrl
 - **XToolBox** của xemulat: https://github.com/xemulat/XToolbox
 - **Harden Debloat** của simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
 - **Microsoft Activation Scripts** của WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
