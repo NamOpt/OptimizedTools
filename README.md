@@ -13,7 +13,7 @@
 ![download](https://img.shields.io/badge/downloads%3A-9%2Fmonth-green?style=flat&logo=downloads)
 ![discord](https://img.shields.io/badge/not%20supported%20(coming%20soon)-black?style=flat&logo=discord)
 
-# 🇺🇸 for English:
+# for English:
 
 ⚒️ **Development:**
 - For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
@@ -68,7 +68,7 @@
 
 **Make with *enthusiasm* and *love*❤️**
 
-# 🇻🇳 cho Việt Nam:
+# cho Việt Nam:
 
 ⚒️ **Về phát triển và xây dựng phần mềm:**(https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)
 - Về nguồn: Các bạn không nên tải từ source mình upload, chỉ cho vui thôi, Các bạn nên tải từ trang Release, mỗi lần cập nhật mình sẽ cập nhật source và upload lên trang Release.
@@ -125,11 +125,11 @@
 **Làm bằng *nhiệt huyết* và *tình yêu*❤️**
 
 # Liên hệ khi có lỗi / Contact me
-For **English 🇺🇸** and **Việt Nam 🇻🇳**:
+For **English** and **Việt Nam**:
 
 [![ver](https://img.shields.io/badge/facebook%3A_namnee6-gray?style=flat&logo=facebook)](https://www.facebook.com/namnee6)
 [![ver](https://img.shields.io/badge/tiktok%3A_%40.techphone-gray?style=flat&logo=tiktok)](https://www.tiktok.com/@_.techphone_/)
 [![ver](https://img.shields.io/badge/ytb%3A_NamCzE-gray?style=flat&logo=youtube)](https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA)
 
-For **Việt Nam 🇻🇳** only:
+For **Việt Nam** only:
 - Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
