@@ -59,8 +59,8 @@
 - Compatible with Windows 10, 11
 
 📊 **Details:**
-- Latest version: 0.2.2.0 (Released: Dec, 29 , 2023)
-- State: Temporarily stopped development
+- Latest version: 0.2.2.1 (Released: Jan, 13 , 2024)
+- State: Alpha
 
 📶 **Size:**
 - 7zip file: 20.6MB
@@ -114,8 +114,8 @@
 - Tương thích với Windows 10, 11
 
 📊 **Chi tiết:**
-- Phiên bản mới nhất: 0.2.2.0 (Phát hành: 29/12/2023)
-- Trạng thái: Tạm thời dừng phát triển
+- Phiên bản mới nhất: 0.2.2.1 (Phát hành: 13/01/2024)
+- Trạng thái: Alpha
 
 
 📶 **Kích thước:**
