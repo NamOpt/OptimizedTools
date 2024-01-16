@@ -7,7 +7,7 @@
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
 ![state](https://img.shields.io/badge/state-working-green)
 ![tools](https://img.shields.io/badge/tools_version-updating-yellow)
-[![CodeFactor](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools/badge)](https://www.codefactor.io/repository/github/namgithub2002/optimizedtools)
+[![CodeFactor](https://www.codefactor.io/repository/github/namopt/optimizedtools/badge)](https://www.codefactor.io/repository/github/namopt/optimizedtools)
 ![website](https://img.shields.io/badge/website_status-okay-blue)
 ![tk](https://img.shields.io/badge/thank%20for%20visit%2C%20download%20and%20using%20this%20project!-white?style=flat)
 ![download](https://img.shields.io/badge/downloads%3A-9%2Fmonth-green?style=flat&logo=downloads)
