@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Windows-Optimize-Harden-Debloat/1.0.0": {
+        "runtime": {
+          "Windows-Optimize-Harden-Debloat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows-Optimize-Harden-Debloat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
