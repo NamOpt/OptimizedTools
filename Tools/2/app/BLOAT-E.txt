@@ -1,0 +1,7 @@
+BingNews:Get-AppxPackage -AllUsers *BingNews* | Remove-AppxPackage
+ZuneVideo:Get-AppxPackage -AllUsers *ZuneVideo* | Remove-AppxPackage
+MicrosoftOfficeHub:Get-AppxPackage -AllUsers *MicrosoftOfficeHub* | Remove-AppxPackage
+GetHelp:Get-AppxPackage -AllUsers *GetHelp* | Remove-AppxPackage
+OneDrive:Get-AppxPackage -AllUsers *OneDriveSync* | Remove-AppxPackage
+WhatsApp:Get-AppxPackage -AllUsers *WhatsApp* | Remove-AppxPackage
+Netflix:Get-AppxPackage -AllUsers *Netflix* | Remove-AppxPackage
