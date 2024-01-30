@@ -16,7 +16,8 @@
 # for English:
 
 ⚒️ **Development:**
-- For the source: You should not download from the source I uploaded, it's just for fun, You should download it from the Release page, with each update I will update the source and upload it to the Release page.
+- For the source: Clone this sources or download the zip.
+- For the build: After you download the source, run build.cmd to build and edit.
 
 ❔ **OptimizedTools Windows Utility**
 
@@ -71,7 +72,8 @@
 # cho Việt Nam:
 
 ⚒️ **Về phát triển và xây dựng phần mềm:**
-- Về nguồn: Các bạn không nên tải từ source mình upload, chỉ cho vui thôi, Các bạn nên tải từ trang Release, mỗi lần cập nhật mình sẽ cập nhật source và upload lên trang Release.
+- Đối với nguồn: Nhân bản (Clone) nguồn này hoặc tải xuống zip.
+- Đối với bản dựng: Sau khi bạn tải xuống nguồn, hãy chạy build.cmd để xây dựng và chỉnh sửa.
 
 ❔ **Về thông tin của OptimizedTools**
 
@@ -132,4 +134,18 @@ For **English** and **Việt Nam**:
 [![ver](https://img.shields.io/badge/ytb%3A_NamCzE-gray?style=flat&logo=youtube)](https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA)
 
 For **Việt Nam** only:
-- Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
+- Số điện thoại / Zalo ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731
+
+# Credits 
+- **Optimizer** by hellzerg: https://github.com/hellzerg/optimizer
+- **winutil** by Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
+- **Bloatnosy** by builtbybel: https://github.com/builtbybel/BloatyNosy
+- **Windows10Debloater** by Sycnex: https://github.com/Sycnex/Windows10Debloater
+- **HoneCtrl** by luke-beep: https://github.com/luke-beep/HoneCtrl
+- **XToolBox** by xemulat: https://github.com/xemulat/XToolbox
+- **Harden Debloat** by simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
+- **Microsoft Activation Scripts** by WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
+- **Notepad++** by donho: https://github.com/notepad-plus-plus/notepad-plus-plus
+- **Bat to exe converter** by Faith Kodak (deleted all repo): https://github.com/99fk
+- **Powershell** by Microsoft: https://github.com/PowerShell/PowerShell
+- **GUI** by **Microsoft Activation Scripts / WindowsAddict**: https://github.com/massgravel/Microsoft-Activation-Scripts
