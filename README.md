@@ -119,7 +119,6 @@
 - Phiên bản mới nhất: 0.2.2.1 (Phát hành: 13/01/2024)
 - Trạng thái: Alpha
 
-
 📶 **Kích thước:**
 - Tệp 7zip: 20,6MB
 - File sau khi giải nén: 39,8MB
