@@ -3,7 +3,7 @@
 
 # Status
 ![status](https://img.shields.io/badge/status-okay-blue)
-[![ver](https://img.shields.io/badge/version-0.2.2.1_lastet-black)](https://github.com/NamGitHub2002/OptimizedTools/releases)
+[![ver](https://img.shields.io/badge/version-0.3.3.0_lastet-black)](https://github.com/NamGitHub2002/OptimizedTools/releases)
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
 ![state](https://img.shields.io/badge/state-working-green)
 ![tools](https://img.shields.io/badge/tools_version-updating-yellow)
