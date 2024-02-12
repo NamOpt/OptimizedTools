@@ -1,6 +1,6 @@
 | current readme.md version |
 |---------------------------|
-| 1.80                      |
+| 1.81                      |
 # OptimizedTools 
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
@@ -8,8 +8,8 @@
 ![status](https://img.shields.io/badge/status-okay-blue)
 [![ver](https://img.shields.io/badge/version-0.3.3.0_lastet-black)](https://github.com/NamGitHub2002/OptimizedTools/releases)
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
-![state](https://img.shields.io/badge/state-working-green)
-![tools](https://img.shields.io/badge/tools_version-updating-yellow)
+![state](https://img.shields.io/badge/state-broke-red)
+![tools](https://img.shields.io/badge/tools_version-fixing-red)
 [![CodeFactor](https://www.codefactor.io/repository/github/namopt/optimizedtools/badge)](https://www.codefactor.io/repository/github/namopt/optimizedtools)
 ![website](https://img.shields.io/badge/website_status-okay-blue)
 ![tk](https://img.shields.io/badge/thank%20for%20visit%2C%20download%20and%20using%20this%20project!-white?style=flat)
