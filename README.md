@@ -1,6 +1,6 @@
 | current readme.md version |
 |---------------------------|
-| 1.81                      |
+| 1.82                      |
 # OptimizedTools 
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
@@ -38,7 +38,7 @@
 - Welcome to OptimizedTools, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation of Windows to achieve maximum privacy and security benefits. Depending on your Windows version, this tool can also help you apply specific system tweaks.
 
 ❗ **Disclaimer:**
-> [!WARNING]
+> [!CAUTION]
 > I do NOT take responsibility for what may happen to your system! Before running the scripts, run "Restore point" to create a backup point. Run scripts at your own risk.
 
 💾 **Tools with programs:**
@@ -57,8 +57,9 @@
 </details>
 
 ✅ **How to use:**
-- Extract this program using 7-Zip or WinRar.
-- When is done, open this folder you extract, run the "startup.exe" file.
+> [!TIP]
+> - Extract this program using 7-Zip or WinRar.
+> - When is done, open this folder you extract, run the "startup.exe" file.
 
 🖼 **Screenshot:**
 
@@ -102,10 +103,10 @@
 
 ❔ **Về thông tin của OptimizedTools**
 
-> Chào mừng bạn đến với OptimizedTools, một tiện ích cấu hình nâng cao được thiết kế để nâng cao quyền riêng tư và bảo mật của bạn trên Windows. Công cụ này rất được khuyến khích sử dụng sau khi cài đặt Windows mới để đạt được lợi ích bảo mật và quyền riêng tư tối đa. Tùy thuộc vào phiên bản Windows của bạn, công cụ này cũng có thể giúp bạn áp dụng các chỉnh sửa hệ thống cụ thể.
+- Chào mừng bạn đến với OptimizedTools, một tiện ích cấu hình nâng cao được thiết kế để nâng cao quyền riêng tư và bảo mật của bạn trên Windows. Công cụ này rất được khuyến khích sử dụng sau khi cài đặt Windows mới để đạt được lợi ích bảo mật và quyền riêng tư tối đa. Tùy thuộc vào phiên bản Windows của bạn, công cụ này cũng có thể giúp bạn áp dụng các chỉnh sửa hệ thống cụ thể.
 
 ❗ **Về trách nhiệm**
-> [!WARNING]
+> [!CAUTION]
 > Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
 
 💾 **Công cụ kèm theo chương trình:**
@@ -124,6 +125,7 @@
 </details>
 
 ✅ **Cách sử dụng:**
+> [!TIP]
 > Giải nén chương trình này bằng 7-Zip hoặc WinRar.
 > Khi giải nén xong bạn mở thư mục vừa giải nén ra, chạy file "startup.exe".
 
