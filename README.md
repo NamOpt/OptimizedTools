@@ -20,9 +20,9 @@
 > [!WARNING]
 > Bug in HoneCTRL. See this issues for more info.
 > [Issues #3](https://github.com/NamOpt/OptimizedTools/issues/3)
-> [!TIP]
-> 
 
+> [!TIP]
+> Temporary suspension of updates for some specific reasons :3
 
 # for English:
 
