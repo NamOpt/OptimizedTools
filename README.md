@@ -1,6 +1,6 @@
 | current readme.md version |
 |---------------------------|
-| 1.82                      |
+| 1.84                      |
 # OptimizedTools 
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
@@ -20,6 +20,8 @@
 > [!WARNING]
 > Bug in HoneCTRL. See this issues for more info.
 > [Issues #3](https://github.com/NamOpt/OptimizedTools/issues/3)
+> [!TIP]
+> 
 
 
 # for English:
